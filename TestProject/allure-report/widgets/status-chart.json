@@ -1,0 +1,21 @@
+[ {
+  "uid" : "5193a4eea45cabe9",
+  "name" : "userLogin",
+  "time" : {
+    "start" : 1705067433635,
+    "stop" : 1705067468347,
+    "duration" : 34712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6410e7388b872975",
+  "name" : "createemployee",
+  "time" : {
+    "start" : 1705067468434,
+    "stop" : 1705067479947,
+    "duration" : 11513
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "TestProject",
+      "children" : [ {
+        "name" : "RunTest.HrDirectoryPageRun",
+        "children" : [ {
+          "name" : "userLogin",
+          "uid" : "5193a4eea45cabe9",
+          "parentUid" : "eab406217400bb4dfe76c131cbaecf9d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1705067433635,
+            "stop" : 1705067468347,
+            "duration" : 34712
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "createemployee",
+          "uid" : "6410e7388b872975",
+          "parentUid" : "eab406217400bb4dfe76c131cbaecf9d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1705067468434,
+            "stop" : 1705067479947,
+            "duration" : 11513
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "eab406217400bb4dfe76c131cbaecf9d"
+      } ],
+      "uid" : "83049fc1444cb1e13f7ded64e39c47b9"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

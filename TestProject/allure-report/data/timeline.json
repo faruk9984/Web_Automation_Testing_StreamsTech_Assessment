@@ -1,0 +1,47 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-4VF20EO",
+    "children" : [ {
+      "name" : "9588@DESKTOP-4VF20EO.main(1)",
+      "children" : [ {
+        "name" : "createemployee",
+        "uid" : "6410e7388b872975",
+        "parentUid" : "8d7c8179d86edff4ce5141dc6cb59dee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1705067468434,
+          "stop" : 1705067479947,
+          "duration" : 11513
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "userLogin",
+        "uid" : "5193a4eea45cabe9",
+        "parentUid" : "8d7c8179d86edff4ce5141dc6cb59dee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1705067433635,
+          "stop" : 1705067468347,
+          "duration" : 34712
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8d7c8179d86edff4ce5141dc6cb59dee"
+    } ],
+    "uid" : "9fe04e37f01d5f3c0848044dc496fd0a"
+  } ]
+}
